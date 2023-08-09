@@ -1,0 +1,17 @@
+.from{
+    width: 500px;   
+    padding: 30px;
+    box-shadow: 8px 8px 8px rgba(0, 0, 0, 0.05),
+    -8px -8px 8px rgba(0, 0, 0, 0.05);
+    position: absolute;
+    left: 50%;
+    bottom: -588px;
+    transform:  translatex(-50%);
+}
+body{
+    position: relative;
+}
+.error{
+    color: red;
+    
+}
